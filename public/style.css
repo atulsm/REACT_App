@@ -1,0 +1,13 @@
+.CredentialsPreview {
+  margin: 1em;
+  border: 1px solid green; }
+  .CredentialsPreview .credential-name {
+    border-bottom: 2px solid blue;
+    padding: 0.5em 0.75em;
+    font-weight: bold;
+    background-color: lightslategrey; }
+  .CredentialsPreview .credential-department {
+    padding: 0.5em; }
+
+.link {
+  cursor: pointer; }

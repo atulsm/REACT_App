@@ -1,0 +1,25 @@
+{
+    "credentials": [
+      {
+        "id": 1,
+        "name": "John Wick",
+        "department": "Admin"
+      },
+      {
+        "id": 2,
+        "name": "Mark Conway",
+        "department": "IT"
+      },
+      {
+        "id": 3,
+        "name": "Alan Harper",
+        "department": "Sales"
+      },
+      {
+        "id": 4,
+        "name": "Jake Ryan",
+        "department": "Legal"
+      }
+    ]
+  }
+  
